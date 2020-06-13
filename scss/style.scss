@@ -1,0 +1,23 @@
+@import 'nav';
+@import 'grid';
+@import 'utilities';
+@import 'mobile';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+footer {
+  background: rgb(23, 158, 199);
+  color: #f4f4f4;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  z-index: 1;
+}
