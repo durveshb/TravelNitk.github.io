@@ -1,16 +1,19 @@
 @media(max-width: 700px){
-
     nav {
       ul{
         display: none;
       }
-      
       #ham {
         display: block;
       }
     }
 
-    .container {
+    .location-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+    }
+
+    .category-grid{
       display: grid;
       grid-template-columns: 1fr;
     }

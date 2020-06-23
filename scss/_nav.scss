@@ -16,7 +16,12 @@ nav {
   .logo {
     display: flex;
     
+    a{
+      text-decoration: none;
+      color: inherit;
+    }
   }
+  
   #logo {
     font-size: 2rem;
     margin-right: 5px;
@@ -41,6 +46,10 @@ nav {
       }
     }
   }
+
+  #ham {
+    display: none;
+  }
 }
 
 #ham-content {
@@ -48,7 +57,7 @@ nav {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  position: absolute;
+  position: fixed;
   top: 60px;
   width: 100%;
   z-index: 1;

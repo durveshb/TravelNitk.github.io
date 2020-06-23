@@ -10,6 +10,43 @@
   font-family: 'Raleway', sans-serif;
 }
 
+.heading {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  color: rgb(23, 158, 199);
+
+  h1 {
+    font-size: 4rem;
+    margin-bottom: 10px;
+  }
+  
+  p{
+    font-size: 1.5rem;
+    text-align: center;
+  }
+}
+
+.btn {
+  display: block;
+  padding: 10px;
+  border: rgb(23, 158, 199) 1px solid;
+  width: 50%;
+  margin-top: 10px;
+  color: rgb(23, 158, 199);
+  border-radius: 20px;
+
+  &:hover {
+    background: rgb(23, 158, 199);
+    color: white;
+    cursor: pointer;
+  }
+
+}
+
 
 footer {
   background: rgb(23, 158, 199);
