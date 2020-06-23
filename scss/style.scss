@@ -43,8 +43,16 @@
     background: rgb(23, 158, 199);
     color: white;
     cursor: pointer;
+
+    a{
+      color: white;
+    }
   }
 
+  a {
+    text-decoration: none;
+    color: rgb(23, 158, 199);
+  }
 }
 
 

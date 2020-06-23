@@ -329,6 +329,96 @@ nav #ham {
   background-size: cover;
 }
 
+#location16 {
+  background: url("../img/card16.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location17 {
+  background: url("../img/card17.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location18 {
+  background: url("../img/card18.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location19 {
+  background: url("../img/card19.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location20 {
+  background: url("../img/card20.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location21 {
+  background: url("../img/card21.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location22 {
+  background: url("../img/card22.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location23 {
+  background: url("../img/card23.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location24 {
+  background: url("../img/card24.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location25 {
+  background: url("../img/card25.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location26 {
+  background: url("../img/card26.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location27 {
+  background: url("../img/card27.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location28 {
+  background: url("../img/card28.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location29 {
+  background: url("../img/card29.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#location30 {
+  background: url("../img/card30.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .category-grid {
   width: 80%;
   display: -ms-grid;
@@ -477,6 +567,15 @@ nav #ham {
   background: #179ec7;
   color: white;
   cursor: pointer;
+}
+
+.btn:hover a {
+  color: white;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #179ec7;
 }
 
 footer {

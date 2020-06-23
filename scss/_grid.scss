@@ -26,7 +26,7 @@
   width: 100%;
 }
 
-@for $i from 1 through 15 {
+@for $i from 1 through 30 {
   #location#{$i} {
     background: url("../img/card#{$i}.jpg");
     background-repeat: no-repeat;
